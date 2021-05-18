@@ -1,5 +1,5 @@
 
-O programa desenvolvido será uma rede social para entusiastas da tecnologia.
+### O programa desenvolvido será uma rede social para entusiastas da tecnologia.
 
 Requisitos de usuário:
 
